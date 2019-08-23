@@ -1,0 +1,22 @@
+
+
+CPU Simulator
+
+For å leke med CPU i praksis og ikke bare gjøre oppgaver i teorien har en tidligere foreleser ved skolen
+laget en liten applikasjon som simulerer en CPU. Dessverre er det slik at denne oppfattes av mange
+anti-virus programmer som å være et datavirus (å simulere instruksjoner dynamisk er en teknikk datavirus
+bruker for å skjule seg selv...)
+
+HVIS du klarer å få kjørt denne så er det et morsomt verktøy. Hvis du ikke klarer det så sett deg sammen
+med en annen som har fått det til. Hvis du ikke finner noen - det er ikke så viktig, mest for morro skyld,
+får du det ikke til så fokuser heller på å løse noen eksamensoppgaver.
+
+
+Obs. Det skal være en versjon som kjører på OSX, jeg har aldri prøvd den - men prøv.
+Obs2. De fleste i dag har 64 bits Windows, for å installere den ocx filen må man kopiere den inn i
+syswow64 mappen, ikke system32 som dokumentasjonen sier. Dette for å være kompatibel med 32 bit.
+
+
+
+
+Bengt
